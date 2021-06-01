@@ -1,1 +1,1 @@
-# whatsappbot
+# wallybot
